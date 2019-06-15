@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoamyCool</string>
+    <string name="favorites">Favorites</string>
+    <string name="search_by_keywords">Search by keywords</string>
+    <string name="search_by_location">Search by location</string>
+    <string name="wrong_search">Search request must contain at least 4 letters!</string>
+    <string name="beer_not_found">Beer not found!</string>
+    <string name="brewery_not_found">Brewery not found!</string>
+    <string name="category">Category</string>
+    <string name="you_have_no_liked_beers">You have no liked beers!</string>
+</resources>
